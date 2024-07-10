@@ -15,7 +15,7 @@
   }
   
   nav{
-      display: flex;
+     display: flex;
       align-items: center;
     justify-content: space-between; 
     margin: 0px 100px;
@@ -36,7 +36,7 @@
   .text{
       text-align:center;
       font-weight: 800px;
-      font-size: 30px;
+      font-size: 28px;
       
   }
   .description{
@@ -262,14 +262,14 @@
   
    }
    .Js{
-      border-radius: 16px;
+      border-radius: 15px;
       background-color: rgba(255, 223, 0, 0.05);
       margin: 0px 24px;
       padding: 30px;
    }
    .reactjs{
       box-sizing: border-box;
-      border: 1px solid rgba(13, 19, 33, 0.15);
+      border: 2px solid rgba(13, 19, 33, 0.15);
       border-radius: 16px;
       background: rgb(255, 255, 255);
       gap: 100px;
@@ -335,7 +335,7 @@
       margin: 0px auto;
       box-sizing: border-box;
   border: 1px solid rgba(13, 19, 33, 0.15);
-  border-radius: 8px;
+  border-radius: 10px;
   background: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
@@ -361,14 +361,15 @@
   background: rgba(13, 19, 33, 0.03);
   }
   .last-part{
-      font-size:30px ;
-      font-family: 600px;
-      display: flex;
+    font-size:30px ;
+    font-family: 600px;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0px auto;
     gap: 20px;
   }
+
   .last-part nav a{
     margin-left: 24px;
   }
