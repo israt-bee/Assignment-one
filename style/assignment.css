@@ -203,6 +203,9 @@
       width: 1140px;
       height: 462px;
   }
+  .target{
+    margin-top: 111px;
+  }
               
   
   .my-target-title{
@@ -247,6 +250,9 @@
       text-align: left;
       text-decoration: underline;
     
+   }
+   .target-01{
+    margin-top: 111px;
    }
    .Css{
       border-radius: 16px;
@@ -340,9 +346,9 @@
       width: 150px;
       height: 60px;
       border-radius: 8px;
-  background: rgb(255, 255, 255);
-  display: flex;
-  justify-content: center;
+   background: rgb(255, 255, 255);
+   display: flex;
+   justify-content: center;
   align-items: center;
   margin: 0px auto;
   
@@ -362,5 +368,8 @@
     align-items: center;
     margin: 0px auto;
     gap: 20px;
+  }
+  .last-part nav a{
+    margin-left: 24px;
   }
   
