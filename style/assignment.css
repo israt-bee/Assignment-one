@@ -1,0 +1,366 @@
+.azeret-mono-font {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+  .btn{
+      font-size: 20px;
+      font-weight: 600px;
+      text-align: center;
+      border: 1px solid black;
+      border-radius: 8px;
+      width: 250px;
+      height: 60px;
+  }
+  
+  nav{
+      display: flex;
+      align-items: center;
+    justify-content: space-between; 
+    margin: 0px 100px;
+  }
+  .banner{
+      width: 1350px;
+        height: 900px;
+        margin: 100px auto;
+      background-image: url(../image/background\ \(1\).png);
+  }
+  .right-pic{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     
+      padding: 50px;
+  }
+  .text{
+      text-align:center;
+      font-weight: 800px;
+      font-size: 30px;
+      
+  }
+  .description{
+      text-align:center;
+      font-weight: 300;
+      font-size: 15px;
+      color:  rgb(13, 19, 33);
+      
+  
+  }
+  .btn-2{
+      width: 200px;
+      height: 80px;
+      border: none;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     text-align: center;
+     color: white;
+     font-size: 20px;
+      margin:0px auto;
+      border-radius: 8px;
+  }
+  .web{
+      border: 1px solid rgb(13, 19, 33, 0.02);
+      width: 1140px;
+      height: 1550px;
+      margin: 0px auto;
+       background-color: rgb(13, 19, 33, 0.02);
+       border-radius: 5px;
+  }
+  
+  .title{
+      font-size: 30px;
+      font-weight: 800;
+      text-align: center;
+  }
+  .paragraph{
+      font-size: 12px;
+      font-weight: 200;
+      text-align: center;
+  }
+  .first{
+      
+      
+      padding: 100px;
+      background-color: white;
+      border:2px solid rgb(13, 19, 33, 0.02) ;
+      gap: 50px;
+  
+      
+  }
+  .title2{
+      text-align: left;
+      font-size: 20px;
+    font-weight: 700;
+    color: rgba(13, 19, 33, 0.7);
+  }
+  .paragraph2{
+      text-align: left;
+      font-size: 14px;
+    font-weight: 200;
+    color:rgb(13, 19, 33) ;
+  }
+  .ptn{
+      width: 150px;
+      height: 50px;
+      border: 1px solid rgb(13, 19, 33);
+      margin: 30px;
+      
+  }
+  .img1{
+     float: right;
+  }
+  
+  .img2{
+      float: left;
+   }
+   
+   .Second{
+      background-color: white;
+      border:2px solid rgb(13, 19, 33, 0.02);
+      padding: 100px;
+      
+      
+  }
+  .title3{
+      text-align: center;
+      font-size: 20px;
+    font-weight: 700;
+    color: rgba(13, 19, 33, 0.7);
+  }
+  .paragraph3{
+      text-align: right;
+      font-size: 14px;
+    font-weight: 200;
+    color:rgb(13, 19, 33) ;
+  
+  }
+  .img2{
+      float: left;
+  }
+  
+  .ptn2{
+      width: 150px;
+      height: 50px;
+      border: 1px solid rgb(13, 19, 33);
+      margin: 30px;
+  }
+  
+  .Third{
+      background-color: white;
+      padding: 100px;
+      border:2px solid rgb(13, 19, 33, 0.02);
+      
+  
+  }
+  
+  .inspiration{
+      width: 1140px;
+      height: 777px;
+      margin: 0px auto;
+      margin-top: 100px;
+  }
+  .heading{
+      text-align: center;
+      font-size: 30px;
+      font-weight: 800;
+      
+   
+  }
+  .description2{
+      text-align: center;
+      font-size: 14px;
+      font-weight: 200;
+      color: rgb(13, 19, 33);
+  }
+  .video{
+      
+      width: 900px;
+      height: 700px;
+  
+      border: 1px solid rgba(13, 19, 33, 0.2);
+      box-sizing: border-box;
+      border-radius: 16px;
+      margin-top: 100px;
+      padding: 32px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0px auto;
+  }
+  .video2{
+      width: 900px;
+      height: 550px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+  }
+  .frame{
+      margin: 0px auto;
+      width: 1140px;
+      height: 462px;
+  }
+              
+  
+  .my-target-title{
+      text-align: center;
+      font-size: 30px;
+      font-weight: 800;
+  }
+  .target-description{
+      text-align: center;
+      font-size: 14px;
+      font-weight: 200;
+      color: rgb(13, 19, 33);
+  }
+   .skill-container{
+      display: flex;
+      padding: 100px;
+   }
+  
+   .html{
+      border-radius: 16px;
+      background: rgba(255, 76, 30, 0.05);
+      margin: 0px 24px;
+      padding: 20px;
+  
+   }
+   .skill-title{
+      text-align:left;
+      font-size: 14px;
+      font-weight: 800;
+  
+   }
+   .sill-description{
+      text-align:left;
+      font-size: 14px;
+      font-weight: 200;
+      color: rgb(13, 19, 33);
+   }
+  
+   .learn1{
+      font-size: 16px;
+      font-weight: 700;
+      text-align: left;
+      text-decoration: underline;
+    
+   }
+   .Css{
+      border-radius: 16px;
+      background:rgba(0, 76, 232, 0.05);
+      margin: 0px 24px;
+      padding: 20px;
+  
+   }
+   .Js{
+      border-radius: 16px;
+      background-color: rgba(255, 223, 0, 0.05);
+      margin: 0px 24px;
+      padding: 30px;
+   }
+   .reactjs{
+      box-sizing: border-box;
+      border: 1px solid rgba(13, 19, 33, 0.15);
+      border-radius: 16px;
+      background: rgb(255, 255, 255);
+      gap: 100px;
+      
+   }
+   .Nodejs{
+      box-sizing: border-box;
+      border: 1px solid rgba(13, 19, 33, 0.15);
+      border-radius: 16px;
+      background: rgb(255, 255, 255);
+   }
+   .Mongo{
+      box-sizing: border-box;
+      border: 1px solid rgba(13, 19, 33, 0.15);
+      border-radius: 16px;
+      background: rgb(255, 255, 255);
+      
+   }
+   .react-image,.nodejs-image ,.Mongo-image{
+      float: left;
+   }
+   
+   .learn2{
+      font-size: 16px;
+      font-weight: 700;
+      text-align: left;
+      text-decoration: underline;
+  
+      margin-left : 100px;
+      
+   }
+   .support{
+     bottom: 1000px;
+   }
+   .support{
+      width: 1200px;
+      height: 700px;
+      margin:100px auto ;
+      background-image: url(../image/handshake.jpg);
+      background-color: rgba(0, 0, 0, 0.2);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-blend-mode: overlay;
+  
+   }
+   .support-title{
+      font-weight: 800;
+      font-size: 30px;
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding: 50px;
+   }
+   .support-description{
+      font-size: 14px;
+      font-weight:100px ;
+      text-align: center;
+      padding: 50px;
+      color: rgb(255, 255, 255);
+   }
+   .X{
+      width: 800px;
+      height: 60px;
+      margin: 0px auto;
+      box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+   }
+  .Y{
+      width: 150px;
+      height: 60px;
+      border-radius: 8px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px auto;
+  
+  }
+  .form01{
+      display: flex;
+  }
+  .last-part{
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.03);
+  }
+  .last-part{
+      font-size:30px ;
+      font-family: 600px;
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+    gap: 20px;
+  }
+  
